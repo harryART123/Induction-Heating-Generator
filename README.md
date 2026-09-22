@@ -1,4 +1,4 @@
-# Induction-Heating-Generator
+# Induction Heating Generator
 This repository is developed to be used like an example for learners with eager for science.
 ## Problem
 The heating by induction is a technology that can works with renewable energy because this not demand higher consumption of electricity to reach high temperatures.
