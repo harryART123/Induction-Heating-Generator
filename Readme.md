@@ -16,6 +16,9 @@ Key principles:
 | Photo | Name | Role |
 | :---: | :---: | :---: |
 | <img width="180" height="250" alt="IMG-20180313-WA0006" src="https://github.com/user-attachments/assets/9309e3e0-1f7b-42f8-bef5-ad6254bbe3ce" /> | Harry Anderson Rivera Tito | Responsible for the project's sustainability |
+
+**SOD 2023**
+
 ---
 ## References :link:
 
